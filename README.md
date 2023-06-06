@@ -1,2 +1,14 @@
-# Real-Time-Bus-Tracker
-This project shows all bus stops between MIT and Harvard. In order to access it, download the index (2).html link and open it, then click "Show stops between MIT and Harvard."
+# REALTIME BUS TRACKER
+
+
+## [DESCRIPTION]
+
+This project is a Google Map API that tracks and marks the real-time locations of buses for each stop between MIT and Harvard.
+
+## [HOW TO RUN]
+
+First clone this repository, then open the index.html file.
+
+## [FUTURE IMPROVEMENTS]
+
+Make a more intricate design.
